@@ -13,8 +13,9 @@ client.music.start(client, {
   botPrefix: "-",
   anyoneCanSkip: true,
   // Make it so the owner (you) bypass permissions for music.
+  // I really should have added the owner ID to the config.json
   ownerOverMember: true,
-  ownerID: "68467110958866432",
+  ownerID: "change this",
 });
 
 client.on('ready', () => {
