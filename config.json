@@ -1,0 +1,6 @@
+{
+    "token": "your discord bot token here",
+    "prefix": "!",
+    "fflogs_token": "fflogs api token",
+    "youtube_token": "youtube api token if wanting to play music from youtube"
+}
