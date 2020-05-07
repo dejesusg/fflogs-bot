@@ -11,4 +11,4 @@ A Discord Bot written in NODE.JS, to retrieve and parse data from the FFLogs.com
 
 # Note: I am not supporting or updating this, it was a personal project from a few years ago... much of it (especially API-related functionality) is probably broken.
 
-# In otherwords, don't ask me to fix it.
+# In otherwords, this is a repo for archival purposes and I have no intention on updating it currently.
